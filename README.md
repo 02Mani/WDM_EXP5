@@ -126,6 +126,7 @@ if __name__ == "__main__":
         print("No results found for the query.")
 
 
+```
 ### Output:
 
 <img width="1641" height="351" alt="image" src="https://github.com/user-attachments/assets/f472b901-6c28-46b2-8c60-5358d98d8809" />
